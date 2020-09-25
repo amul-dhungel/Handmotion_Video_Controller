@@ -8,8 +8,10 @@ and python controlling the hotkey through sensor. The hardware devices used are 
 - Second, go the cmd and check your python installation 
 - Third, go to cmd and install serial libraries "pip install pyserial" with this command line
 - Fourth, again install pytongui with "pip install pyautogui" command line
-- Fifth open the python main.py program and press F5 or Run 
+- Fifth open the python main.py program and press F5 or Run
+
+# This is the video link
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/w2DZ9CLdgxs&ab/0.jpg)](https://www.youtube.com/watch?v=w2DZ9CLdgxs&ab_channel=Rifleman)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/w2DZ9CLdgxs/0.jpg)](https://youtu.be/w2DZ9CLdgxs)
 

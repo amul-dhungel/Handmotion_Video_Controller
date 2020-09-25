@@ -10,3 +10,6 @@ and python controlling the hotkey through sensor. The hardware devices used are 
 - Fourth, again install pytongui with "pip install pyautogui" command line
 - Fifth open the python main.py program and press F5 or Run 
 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XJf3Y8i_-oI/0.jpg)](https://www.youtube.com/watch?v=w2DZ9CLdgxs&ab_channel=Rifleman)
+

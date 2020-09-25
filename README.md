@@ -11,5 +11,5 @@ and python controlling the hotkey through sensor. The hardware devices used are 
 - Fifth open the python main.py program and press F5 or Run 
 
 
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/w2DZ9CLdgxs/mq2.jpg?sqp=CKzJtvsF&rs=AOn4CLCZrty7NwCl8m_QUudNclIITtREog)](https://www.youtube.com/watch?v=w2DZ9CLdgxs&ab_channel=Rifleman)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/w2DZ9CLdgxs&ab/0.jpg)](https://www.youtube.com/watch?v=w2DZ9CLdgxs&ab_channel=Rifleman)
 
